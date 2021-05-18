@@ -1,6 +1,8 @@
-# Aplicação
+# Tabuada :1234:
+
+### Descrição
 Usuário deve informar o número da tabuada que ele quer, e até quanto a tabuada vai.
-O resultado deve aparecer no console.log.
+O resultado deve aparecer no <b>console.log</b>.
 
 Exemplo: tabuada do 7 até 4
 ```
@@ -10,10 +12,11 @@ Exemplo: tabuada do 7 até 4
 7x3 = 21
 ```
 
-```
-++ = incremento;
+## Como rodar o projeto
+- Clone este repositório
+- Abra a pasta do projeto
+- Clique duas vezes no arquivo <i>index.html</i>, pois em seguida você será redirecionado ao navegador com o aplicativo em execução.
 
--- = decremento;
+### Licença
 
-i = i + 1 ou i+ = 1 = atribuição.
-``` 
+MIT © Beatriz Nonato :woman_technologist:
